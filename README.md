@@ -1,2 +1,2 @@
 # Dogefy-chrome-extension
-The chrome extension that uses @santojon/Dogefy
+The chrome and firefox extension that uses @santojon/Dogefy
